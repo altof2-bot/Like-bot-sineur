@@ -1,1 +1,1 @@
-worker: python likeauto.py
+worker: python bot.py
